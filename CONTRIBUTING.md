@@ -21,7 +21,7 @@ are not interested in accepting into the code base.
 
 ### Fixing bugs
 
-If you would like to fix a bug, please **FIXME** [raise an issue](https://github.ibm.com/chrisfer/social-coding/issues) before sending a
+If you would like to fix a bug, please **FIXME** [raise an issue](https://github.com/ibm/repo-template/issues) before sending a
 pull request so it can be tracked.
 
 ### Merge approval
