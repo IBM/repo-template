@@ -7,7 +7,7 @@ This repository contains some example best practices for open source repositorie
 establishing a new repo using this template, please use the
 license that was approved for your project.**
 
-**NOTE: This repository has been configured with the DCO bot. When you set up
-a new repository that uses the Apache license, you should use the DCO to manage
-contributions. The DCO bot will help enforce that. Please contact one of the
-IBM GH Org stewards.**
+**NOTE: This repository has been configured with the [DCO bot](https://github.com/probot/dco).
+When you set up a new repository that uses the Apache license, you should
+use the DCO to manage contributions. The DCO bot will help enforce that.
+Please contact one of the IBM GH Org stewards.**
