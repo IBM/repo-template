@@ -14,17 +14,20 @@ The purpose of this project is to provide a template for new open source reposit
 
 This repository contains some example best practices for open source repositories:
 
-- [LICENSE](LICENSE)
-- boilerplate [README.md](README.md)
-- [CONTRIBUTING.md](CONTRIBUTING.md)
-- [MAINTAINERS.md](MAINTAINERS.md)
+* [LICENSE](LICENSE)
+* [README.md](README.md)
+* [CONTRIBUTING.md](CONTRIBUTING.md)
+* [MAINTAINERS.md](MAINTAINERS.md)
 <!-- The Code of Conduct is vital to help enforce a inclusive and positive project -->
-- [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for more details you should [read this][coc].
+* [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for more details you should [read this][coc].
 <!-- A Changelog allows you to track major changes and things that happen, https://github.com/github-changelog-generator/github-changelog-generator can help automate the process -->
-- [CHANGELOG.md](CHANGELOG.md)
+* [CHANGELOG.md](CHANGELOG.md)
+
+> These are optional
+
 <!-- The following are OPTIONAL, but strongly suggested to have in your repository. -->
-- [dco.yml](.github/dco.yml) - This enables DCO bot for you, please take a look https://github.com/probot/dco for more details.
-- [travis.yml](.travis.yml) - This is a example `.travis.yml`, please take a look https://docs.travis-ci.com/user/tutorial/ for more details.
+* [dco.yml](.github/dco.yml) - This enables DCO bot for you, please take a look https://github.com/probot/dco for more details.
+* [travis.yml](.travis.yml) - This is a example `.travis.yml`, please take a look https://docs.travis-ci.com/user/tutorial/ for more details.
 
 These may be copied into a new or existing project to make it easier for developers not on a project team to collaborate.
 
@@ -56,7 +59,7 @@ example:
 <!-- License and Authors is optional here, but gives you the ability to highlight who is involed in the project -->
 ## License & Authors
 
-If you would like to see the detailed LICENCE click [here](./LICENCE).
+If you would like to see the detailed LICENCE click [here](LICENCE).
 
 - Author: New OpenSource IBMer <new-opensource-ibmer@ibm.com>
 
