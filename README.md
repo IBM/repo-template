@@ -59,7 +59,7 @@ example:
 <!-- License and Authors is optional here, but gives you the ability to highlight who is involed in the project -->
 ## License & Authors
 
-If you would like to see the detailed LICENCE click [here](LICENCE).
+If you would like to see the detailed LICENSE click [here](LICENSE).
 
 - Author: New OpenSource IBMer <new-opensource-ibmer@ibm.com>
 
