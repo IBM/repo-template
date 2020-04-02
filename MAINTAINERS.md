@@ -1,3 +1,3 @@
 # MAINTAINERS
 
-Christopher Ferris - chrisfer@us.ibm.com
+Alexey Zubko - alexey.zubko@ca.ibm.com
