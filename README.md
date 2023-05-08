@@ -63,7 +63,7 @@ If you would like to see the detailed LICENSE click [here](LICENSE).
 
 ```text
 #
-# Copyright 2020- IBM Inc. All rights reserved
+# Copyright IBM Corp. 2020-
 # SPDX-License-Identifier: Apache2.0
 #
 ```
