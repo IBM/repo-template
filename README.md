@@ -18,6 +18,7 @@ This repository contains some example best practices for open source repositorie
 * [README.md](README.md)
 * [CONTRIBUTING.md](CONTRIBUTING.md)
 * [MAINTAINERS.md](MAINTAINERS.md)
+* [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
 <!-- A Changelog allows you to track major changes and things that happen, https://github.com/github-changelog-generator/github-changelog-generator can help automate the process -->
 * [CHANGELOG.md](CHANGELOG.md)
 
